@@ -4,6 +4,10 @@ Senior Backend & Systems Engineer with 16+ years of commercial experience buildi
 
 I specialize in modern C++, distributed systems, networking and blockchain infrastructure. My work focuses on performance, scalability, concurrency and system architecture. I'm also actively exploring Rust and modern systems programming.
 
+> **Open to interesting opportunities in systems programming, distributed systems, blockchain infrastructure, low-latency and high-performance backend development.**
+>
+> Feel free to reach out via the [Contact](#-contact) section below.
+
 ---
 
 ## 🚀 What I Build
@@ -89,11 +93,3 @@ Outside of software engineering:
 - Telegram (preferred): [@xDimon](https://t.me/xDimon)
 - Email: [khaustov.dm@gmail.com](mailto:khaustov.dm@gmail.com)
 - LinkedIn: [linkedin.com/in/dmitriykhaustov](https://www.linkedin.com/in/dmitriykhaustov/)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xDimon&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xDimon&layout=compact&theme=dark)
